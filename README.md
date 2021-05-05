@@ -1,6 +1,8 @@
 ![Repository Banner](https://raw.githubusercontent.com/elenajp/elenajp/main/me_diving.png)
 
-### Hi there 👋 I'm Elena Perez
+Hi there 👋 I'm Elena!  
+I'm an enthusiastic back-end developer from England, living in beautiful 🏔 Switzerland  
+Being a self driven, career-minded individual, I strive to grow as a developer everyday 💪
 
 I'm a people person, let's connect!
 
