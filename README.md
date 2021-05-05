@@ -1,4 +1,4 @@
-![Repository Banner](/Users/elenaperez/Desktop/Screenshots/me_diving.png)
+<!--![Repository Banner](/Users/elenaperez/Desktop/code/elenajp/me_diving.png)-->
 
 ### Hi there 👋 my name is Elena Perez
 
