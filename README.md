@@ -1,4 +1,4 @@
-![Repository Banner](https://raw.githubusercontent.com/elenajp/elenajp/main/me_diving.jpg)
+![Repository Banner](https://raw.githubusercontent.com/elenajp/elenajp/main/me_diving.png)
 
 ### Hi there 👋 I'm Elena Perez
 
