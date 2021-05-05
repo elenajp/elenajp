@@ -1,7 +1,11 @@
-### Hi there 👋
+![Repository Banner](/Users/elenaperez/Desktop/Screenshots/me_diving.png)
 
+### Hi there 👋 my name is Elena Perez
 
-### My name is Elena Perez
+I'm a people person, let's connect!
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Perez84Elena.svg?style=social&label=Follow)](https://twitter.com/Perez84Elena)
+[![](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/elena-perez-2a5890192/)
 
 <!--
 **elenajp/elenajp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
