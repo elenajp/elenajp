@@ -1,6 +1,6 @@
-<!--![Repository Banner](/Users/elenaperez/Desktop/code/elenajp/me_diving.png)-->
+![Repository Banner](https://raw.githubusercontent.com/elenajp/elenajp/main/me_diving.jpg)
 
-### Hi there 👋 my name is Elena Perez
+### Hi there 👋 I'm Elena Perez
 
 I'm a people person, let's connect!
 
