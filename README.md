@@ -17,4 +17,11 @@ I'm a people person, let's connect!
 - 🤔 I’m looking for help with getting started with open source
 - 💬 Ask me about my career change from scuba instructor to software engineer
 - ⚡ Fun fact: I took part in the Guinness World Record of the largest (62) underwater human pyramid
-<!-- - 🌱 I’m currently learning about AWS Developer Associate -->
+
+<!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+
+<!-- **Languages and Tools:**
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> -->
+
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenajp&show_icons=true&theme=tokyonight)
