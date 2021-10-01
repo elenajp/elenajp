@@ -11,7 +11,7 @@ I'm a people person, let's connect!
 [![](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/elena-perez-2a5890192/)
 
 - 🧐 I'm interested in back-end dev, DevOps and open source
-- 🔭 I’m currently working on a Twitter bot to help raise awareness about sharks
+- 🔭 I’m currently working on a creating a fun weather app using two APIs
 - 🌱 I’m currently studying for the AWS Developer Associate exam
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with getting started with open source
