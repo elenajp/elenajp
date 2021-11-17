@@ -12,9 +12,9 @@ I'm a people person, let's connect!
 
 - 🧐 I'm interested in back-end dev, DevOps and open source
 - 🔭 I’m currently working on a creating a fun weather app using two APIs
-- 🌱 I’m currently studying for the AWS Developer Associate exam
+- 🌱 I’m currently studying Terraform and AWS
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with getting started with open source
+- 🤔 I’m looking for help with finding Terraform courses
 - 💬 Ask me about my career change from scuba instructor to software engineer
 - ⚡ Fun fact: I took part in the Guinness World Record of the largest (62) underwater human pyramid
 
