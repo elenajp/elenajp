@@ -15,8 +15,8 @@ Being a self driven, career-minded individual, I strive to grow everyday 💪
 
 ## 🖇️ Let's connect!
 
-[![Follow me on Twitter!](https://img.shields.io/twitter/url/https/twitter.com/Perez84Elena.svg?style=social&label=Follow)](https://twitter.com/Perez84Elena)
-[![Connect with me on LinkedIn!](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/elena-perez-2a5890192/)
+[![Follow me on Twitter](https://img.shields.io/twitter/url/https/twitter.com/Perez84Elena.svg?style=social&label=Follow)](https://twitter.com/Perez84Elena)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/elena-perez-2a5890192/)
 
 ## 🔧 Technologies & Tools
 
