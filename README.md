@@ -11,7 +11,7 @@ Being a self driven, career-minded individual, I strive to grow everyday 💪
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with finding Terraform courses
 - 💬 Ask me about my career change from scuba instructor to software engineer
-- ⚡ Fun fact: I took part in the Guinness World Record of the largest (63) underwater human pyramid.
+- ⚡ Fun fact: I took part in the Guinness World Record of the largest (63) underwater human pyramid
 
 ## 🖇️ Let's connect!
 
