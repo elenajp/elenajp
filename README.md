@@ -5,11 +5,11 @@
 I'm an enthusiastic junior SRE & developer from England, living in beautiful 🏔 Switzerland  
 Being a self driven, career-minded individual, I strive to grow everyday 💪
 
-- 🧐 I'm interested in SRE, back-end dev and open source
-- 🔭 I’m currently working on a creating a fun weather app
-- 🌱 I’m currently studying Terraform and AWS
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with finding Terraform courses
+- 🧐 I'm interested in Python back-end dev, Flask, Docker, K8
+- 🔭 I’m currently working on the Wilmaa tv app
+- 🌱 I’m currently studying to know Python and Flask better
+- 👯 I’m looking to become a jedi master
+- 🤔 I’m looking for help with getting the developer mind
 - 💬 Ask me about my career change from scuba instructor to software engineer
 - ⚡ Fun fact: I took part in the Guinness World Record of the largest (63) underwater human pyramid
 
