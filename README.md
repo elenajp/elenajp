@@ -2,13 +2,13 @@
 
 # Hi there 👋 I'm Elena!
 
-I'm an enthusiastic junior SRE & developer from England, living in beautiful 🏔 Switzerland  
+I'm an enthusiastic backend Python developer from England, living in beautiful 🏔 Switzerland  
 Being a self driven, career-minded individual, I strive to grow everyday 💪
 
 - 🧐 I'm interested in Python back-end dev, Flask, Docker, K8
-- 🔭 I’m currently working on the Wilmaa tv app
-- 🌱 I’m currently studying to know Python and Flask better
-- 👯 I’m looking to become a jedi master
+- 🔭 I’m currently working my portfolio
+- 🌱 I’m currently diving deeper into Python and Flask
+- 👯 I’m looking to become a Python jedi master
 - 🤔 I’m looking for help with getting the developer mind
 - 💬 Ask me about my career change from scuba instructor to software engineer
 - ⚡ Fun fact: I took part in the Guinness World Record of the largest (63) underwater human pyramid
