@@ -2,20 +2,19 @@
 
 # Hi there 👋 I'm Elena!
 
-I'm an enthusiastic backend Python developer from England, living in beautiful 🏔 Switzerland  
-Being a self driven, career-minded individual, I strive to grow everyday 💪
+I'm an enthusiastic Python data analyst from England, living in beautiful 🏔 Switzerland.
+Being a self-driven, career-minded individual, I strive to grow every day 💪
 
-- 🧐 I'm interested in Python back-end dev, Flask, Docker, K8
-- 🔭 I’m currently working my portfolio
-- 🌱 I’m currently diving deeper into Python and Flask
-- 👯 I’m looking to become a Python jedi master
-- 🤔 I’m looking for help with getting the developer mind
-- 💬 Ask me about my career change from scuba instructor to software engineer
-- ⚡ Fun fact: I took part in the Guinness World Record of the largest (63) underwater human pyramid
+    🧐 I'm interested in Python, data analysis, pandas, NumPy, SQL, and data visualization
+    🔭 I’m currently working on building my portfolio with real-world datasets
+    🌱 I’m diving deeper into data cleaning, analysis, and visualization techniques
+    👯 I’m looking to master Python for data analytics and storytelling with data
+    🤔 I’m looking for advice on transitioning into the data analytics mindset
+    💬 Ask me about my career change from scuba instructor to aspiring data analyst
+    ⚡ Fun fact: I took part in the Guinness World Record of the largest (63) underwater human pyramid
 
 ## 🖇️ Let's connect!
 
-[![Follow me on Twitter](https://img.shields.io/twitter/url/https/twitter.com/Perez84Elena.svg?style=social&label=Follow)](https://twitter.com/Perez84Elena)
 [![Connect with me on LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://www.linkedin.com/in/elena-perez-2a5890192/)
 
 ## 🔧 Technologies & Tools
