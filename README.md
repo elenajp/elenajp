@@ -5,13 +5,13 @@
 I'm an enthusiastic Python data analyst from England, living in beautiful 🏔 Switzerland.
 Being a self-driven, career-minded individual, I strive to grow every day 💪
 
-    🧐 I'm interested in Python, data analysis, pandas, NumPy, SQL, and data visualization
-    🔭 I’m currently working on building my portfolio with real-world datasets
-    🌱 I’m diving deeper into data cleaning, analysis, and visualization techniques
-    👯 I’m looking to master Python for data analytics and storytelling with data
-    🤔 I’m looking for advice on transitioning into the data analytics mindset
-    💬 Ask me about my career change from scuba instructor to aspiring data analyst
-    ⚡ Fun fact: I took part in the Guinness World Record of the largest (63) underwater human pyramid
+🧐 I'm interested in Python, data analysis, pandas, NumPy, SQL, and data visualization
+🔭 I’m currently working on building my portfolio with real-world datasets
+🌱 I’m diving deeper into data cleaning, analysis, and visualization techniques
+👯 I’m looking to master Python for data analytics and storytelling with data
+🤔 I’m looking for advice on transitioning into the data analytics mindset
+💬 Ask me about my career change from scuba instructor to aspiring data analyst
+⚡ Fun fact: I took part in the Guinness World Record of the largest (63) underwater human pyramid
 
 ## 🖇️ Let's connect!
 
